@@ -3,9 +3,9 @@
  */
 
 
-var tengine = require('tengine')
+var tengine = require('zhang-ning-tengine')
   , html    = require('./template.js')
-  , Configurable = require('configurable.js'); 
+  , Configurable = require('visionmedia-configurable.js'); 
 
 //exports
 exports = module.exports = Thumbanil;

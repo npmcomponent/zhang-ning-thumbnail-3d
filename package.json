@@ -1,0 +1,14 @@
+{
+  "name": "zhang-ning-thumbnail-3d",
+  "description": "thumbnail with 3d effect",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "thumbnail-3d.css"
+  ],
+  "dependencies": {
+    "zhang-ning-tengine": "git://github.com/npmcomponent/zhang-ning-tengine.git",
+    "visionmedia-configurable.js": "git://github.com/npmcomponent/visionmedia-configurable.js.git"
+  },
+  "license": "MIT"
+}
